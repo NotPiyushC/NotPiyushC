@@ -43,8 +43,8 @@ philosophy: "Cook with AI, engineer with precision, ship with passion."
 
 #### 🤖 AI & LLM Copilots
 <p align="left">
-  <a href="https://claude.ai"><img src="./public/logos/claude.jpg" width="36" height="36" alt="Claude" style="border-radius: 8px; vertical-align: middle; margin-right: 6px;" /></a>
-  <a href="https://chatgpt.com"><img src="./public/logos/chatgpt.png" width="36" height="36" alt="ChatGPT" style="border-radius: 8px; vertical-align: middle; margin-right: 6px;" /></a>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
