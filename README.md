@@ -2,11 +2,11 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://github.com/NotPiyushC">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF87&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Changedia;Current+student+who+cooks+using+AI;Building+tools+that+make+developers+happy;Obsessed+with+AI+Coding+%26+Next-Gen+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF87&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Changedia" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <code>&gt; currently a student who cooks using AI 🚀</code>
+    <code>&gt; current a student who cooks using AI 🚀</code>
   </p>
 
   <p align="center">
