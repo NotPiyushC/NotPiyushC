@@ -90,12 +90,12 @@ philosophy: "Cook with AI, engineer with precision, ship with passion."
 
 | | Certificate | Issuer | Date | Category | Credential |
 |:---:|:---|:---|:---:|:---:|:---:|
-| ☁️ | **AWS Solutions Architect** | Amazon Web Services | `Mar 2024` | `Cloud` | [Verify ↗](https://aws.amazon.com/certification/) |
-| 🌐 | **Google Professional Cloud Developer** | Google Cloud | `Jan 2024` | `Cloud` | [Verify ↗](https://cloud.google.com/certification) |
-| ⎈ | **Certified Kubernetes Administrator** | CNCF | `Nov 2023` | `DevOps` | [Verify ↗](https://www.cncf.io/certification/cka/) |
-| ⚛ | **Meta Frontend Developer** | Meta / Coursera | `Sep 2023` | `Frontend` | [Verify ↗](https://www.coursera.org/professional-certificates/meta-front-end-developer) |
-| 🦀 | **Rust Programming Fundamentals** | Linux Foundation | `Jul 2023` | `Systems` | [Verify ↗](https://training.linuxfoundation.org/) |
-| 🤖 | **TensorFlow Developer Certificate** | Google | `May 2023` | `AI/ML` | [Verify ↗](https://www.tensorflow.org/certificate) |
+| ☁️ | **AWS Solutions Architect** | Amazon Web Services | `Aug 2026` | `Cloud` | [Verify ↗](https://aws.amazon.com/certification/) |
+| 🌐 | **Google Professional Cloud Developer** | Google Cloud | `Jul 2026` | `Cloud` | [Verify ↗](https://cloud.google.com/certification) |
+| ⎈ | **Certified Kubernetes Administrator** | CNCF | `May 2026` | `DevOps` | [Verify ↗](https://www.cncf.io/certification/cka/) |
+| ⚛ | **Meta Frontend Developer** | Meta / Coursera | `Apr 2026` | `Frontend` | [Verify ↗](https://www.coursera.org/professional-certificates/meta-front-end-developer) |
+| 🦀 | **Rust Programming Fundamentals** | Linux Foundation | `Feb 2026` | `Systems` | [Verify ↗](https://training.linuxfoundation.org/) |
+| 🤖 | **TensorFlow Developer Certificate** | Google | `Jan 2026` | `AI/ML` | [Verify ↗](https://www.tensorflow.org/certificate) |
 
 ---
 
