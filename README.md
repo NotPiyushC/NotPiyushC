@@ -28,12 +28,12 @@
 ### 👨‍💻 About Me
 
 ```yaml
-Name: Piyush Changedia
-Username: NotPiyushC
-Focus: AI Coding, Autonomous Agents & Modern Full-Stack Systems
-Bio: "Building tools that make developers happy. Obsessed with AI Coding."
-Location: India 📍
-Philosophy: "Cook with AI, engineer with precision, ship with passion."
+name: Piyush Changedia
+username: NotPiyushC
+focus: AI Coding, Autonomous Agents & Modern Full-Stack Systems
+bio: "Building tools that make developers happy. Obsessed with AI Coding."
+location: India 📍
+philosophy: "Cook with AI, engineer with precision, ship with passion."
 ```
 
 ---
@@ -73,7 +73,7 @@ Philosophy: "Cook with AI, engineer with precision, ship with passion."
 
 <p align="center">
   <a href="https://github.com/NotPiyushC">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=NotPiyushC&show_icons=true&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=NotPiyushC&show_icons=true&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/NotPiyushC">
     <img src="https://streak-stats.demolab.com/?user=NotPiyushC&theme=tokyonight&border=00d4ff&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=false" alt="Streak Stats" />
@@ -82,7 +82,7 @@ Philosophy: "Cook with AI, engineer with precision, ship with passion."
 
 <p align="center">
   <a href="https://github.com/NotPiyushC">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" />
   </a>
 </p>
 
