@@ -72,17 +72,20 @@ philosophy: "Cook with AI, engineer with precision, ship with passion."
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotPiyushC&show_icons=true&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotPiyushC&theme=tokyonight&border=00d4ff&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=false" alt="Streak Stats" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/NotPiyushC">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=NotPiyushC&show_icons=true&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/NotPiyushC">
+    <img src="https://streak-stats.demolab.com/?user=NotPiyushC&theme=tokyonight&border=00d4ff&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=false" alt="Streak Stats" />
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotPiyushC&bg_color=0d1117&color=00ff87&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" alt="Activity Graph" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/NotPiyushC">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
