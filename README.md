@@ -28,12 +28,12 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Piyush Changedia
-username: NotPiyushC
-focus: AI Coding, Autonomous Agents & Modern Full-Stack Systems
-bio: "Building tools that make developers happy. Obsessed with AI Coding."
-location: India 📍
-philosophy: "Cook with AI, engineer with precision, ship with passion."
+Name: Piyush Changedia
+Username: NotPiyushC
+Focus: AI Coding, Autonomous Agents & Modern Full-Stack Systems
+Bio: "Building tools that make developers happy. Obsessed with AI Coding."
+Location: India 📍
+Philosophy: "Cook with AI, engineer with precision, ship with passion."
 ```
 
 ---
