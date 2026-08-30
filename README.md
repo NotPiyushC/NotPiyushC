@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <code>&gt; current a student who cooks using AI 🚀</code>
+    <code>&gt; currently a student who cooks using AI 🚀</code>
   </p>
 
   <p align="center">
