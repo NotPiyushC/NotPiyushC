@@ -81,9 +81,7 @@ philosophy: "Cook with AI, engineer with precision, ship with passion."
 </p>
 
 <p align="center">
-  <a href="https://github.com/NotPiyushC">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="./public/languages.svg" alt="Languages" />
 </p>
 
 ---
