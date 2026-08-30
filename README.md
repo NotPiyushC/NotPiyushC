@@ -81,9 +81,7 @@ philosophy: "Cook with AI, engineer with precision, ship with passion."
 </p>
 
 <p align="center">
-  <a href="https://github.com/NotPiyushC">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="https://quickchart.io/chart?w=360&h=260&devicePixelRatio=2&bkg=%230d1117&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Python%2078%25%27%2C%27HTML%2069%25%27%2C%27C%2B%2B%2068%25%27%2C%27C%2056%25%27%2C%27Java%2052%25%27%2C%27JavaScript%2041%25%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B78%2C69%2C68%2C56%2C52%2C41%5D%2CbackgroundColor%3A%5B%27%233572a5%27%2C%27%23e34c26%27%2C%27%23f34b7d%27%2C%27%23555555%27%2C%27%23b07219%27%2C%27%23f1e05a%27%5D%2CborderRadius%3A4%2CborderSkipped%3Afalse%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27%F0%9F%92%BB%20Languages%27%2CfontColor%3A%27%2358a6ff%27%2CfontSize%3A14%2CfontFamily%3A%27monospace%27%2Cposition%3A%27top%27%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%2CyAxes%3A%5B%7BgridLines%3A%7Bdisplay%3Afalse%7D%2Cticks%3A%7BfontColor%3A%27%238b949e%27%2CfontFamily%3A%27monospace%27%2CfontSize%3A12%7D%7D%5D%7D%7D%7D" alt="Languages" width="360" />
 </p>
 
 ---
