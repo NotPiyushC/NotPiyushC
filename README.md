@@ -1,209 +1,192 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>README preview</title>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.9.0/github-markdown-dark.min.css" />
-<style>
-  * { box-sizing: border-box; }
-  html, body {
-    margin: 0;
-    padding: 0;
-    background: #0d1117;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  }
-  .page {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 24px 16px 64px;
-  }
-  .repo-crumb {
-    color: #8b949e;
-    font-size: 14px;
-    margin-bottom: 12px;
-  }
-  .repo-crumb a { color: #58a6ff; text-decoration: none; }
-  .repo-crumb a:hover { text-decoration: underline; }
-  .repo-title {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: #c9d1d9;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 16px;
-    padding-bottom: 16px;
-    border-bottom: 1px solid #21262d;
-  }
-  .repo-title svg { fill: #8b949e; }
-  .file-box {
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    overflow: hidden;
-  }
-  .file-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #161b22;
-    padding: 8px 16px;
-    border-bottom: 1px solid #30363d;
-    color: #8b949e;
-    font-size: 13px;
-  }
-  .file-header .fname { display: flex; align-items: center; gap: 6px; color: #c9d1d9; font-weight: 600; }
-  .file-header svg { fill: #8b949e; }
-  .markdown-body {
-    background: #0d1117 !important;
-    padding: 32px 40px;
-  }
-  .banner {
-    background: #1f6feb22;
-    border: 1px solid #1f6feb55;
-    color: #79c0ff;
-    font-size: 12px;
-    padding: 8px 16px;
-    text-align: center;
-  }
-</style>
-</head>
-<body>
-
-<div class="banner">Preview only — rendered with GitHub's own markdown-css to show how README.md will actually look on github.com</div>
-
-<div class="page">
-  <div class="repo-crumb"><a href="#">NotPiyushC</a> / <a href="#">NotPiyushC</a> <span style="color:#30363d">Public</span></div>
-  <div class="repo-title">
-    <svg width="16" height="16" viewBox="0 0 16 16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>
-    NotPiyushC / README.md
-  </div>
-
-  <div class="file-box">
-    <div class="file-header">
-      <span class="fname">
-        <svg width="16" height="16" viewBox="0 0 16 16"><path d="M0 1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5A1.75 1.75 0 0 1 10.25 16h-8.5A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Z"></path></svg>
-        README.md
-      </span>
-      <span>Preview</span>
-    </div>
-
-<article class="markdown-body">
-
 <div align="center">
 
-🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>NotPiyushC / NotPiyushC — README.md</code>
+  <!-- Typing SVG Banner -->
+  <a href="https://github.com/NotPiyushC">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF87&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Changedia;Current+student+who+cooks+using+AI;Building+tools+that+make+developers+happy;Obsessed+with+AI+Coding+%26+Next-Gen+Tech" alt="Typing SVG" />
+  </a>
 
-<br>
+  <p align="center">
+    <code>&gt; current a student who cooks using AI 🚀</code>
+  </p>
 
-# Piyush Changedia
+  <p align="center">
+    <a href="https://github.com/NotPiyushC"><img src="https://komarev.com/ghpvc/?username=NotPiyushC&color=00ff87&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+    <img src="https://img.shields.io/badge/Location-India-00d4ff?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Cooking%20with%20AI-00ff87?style=for-the-badge&logo=sparkles&logoColor=black" alt="Status" />
+  </p>
 
-<code>&gt; current a student who cooks using AI</code>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/@NotPiyushC-00ff87?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d1117)](https://github.com/NotPiyushC)
-[![Resume](https://img.shields.io/badge/📄_Resume-00d4ff?style=for-the-badge&logoColor=000000&labelColor=0d1117)](https://example.com/resume.pdf)
-![Profile Views](https://komarev.com/ghpvc/?username=NotPiyushC&color=00ff87&style=for-the-badge&label=VIEWS)
-
-📍 India
+  <p align="center">
+    <a href="https://github.com/NotPiyushC"><img src="https://img.shields.io/badge/GitHub-NotPiyushC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
 </div>
 
-<br>
+---
 
-## 📊 GitHub Stats & 💻 Top Languages
+### 👨‍💻 About Me
+
+```yaml
+name: Piyush Changedia
+username: NotPiyushC
+focus: AI Coding, Autonomous Agents & Modern Full-Stack Systems
+bio: "Building tools that make developers happy. Obsessed with AI Coding."
+location: India 📍
+philosophy: "Cook with AI, engineer with precision, ship with passion."
+```
+
+---
+
+### ⚙️ Tech Stack & AI Arsenal
+
+#### 🤖 AI & LLM Copilots
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%203.7%20Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+#### 💻 Programming Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NotPiyushC&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00FF87&text_color=8B949E" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NotPiyushC&show_icons=true&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotPiyushC&theme=tokyonight&border=00d4ff&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=false" alt="Streak Stats" width="48%" />
 </div>
 
-<br>
-
-## ⚙️ Tech Stack
-
-Building tools that make developers happy. Obsessed with AI Coding.
+<br/>
 
 <div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0d1117)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPiyushC&layout=compact&theme=tokyonight&border_color=00ff87&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotPiyushC&bg_color=0d1117&color=00ff87&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" alt="Activity Graph" width="48%" />
 </div>
 
-<br>
+---
 
-## 🏆 Achievements
+### 🏆 Certifications & Achievements
+
+| | Certificate | Issuer | Date | Category | Credential |
+|:---:|:---|:---|:---:|:---:|:---:|
+| ☁️ | **AWS Solutions Architect** | Amazon Web Services | `Mar 2024` | `Cloud` | [Verify ↗](https://aws.amazon.com/certification/) |
+| 🌐 | **Google Professional Cloud Developer** | Google Cloud | `Jan 2024` | `Cloud` | [Verify ↗](https://cloud.google.com/certification) |
+| ⎈ | **Certified Kubernetes Administrator** | CNCF | `Nov 2023` | `DevOps` | [Verify ↗](https://www.cncf.io/certification/cka/) |
+| ⚛ | **Meta Frontend Developer** | Meta / Coursera | `Sep 2023` | `Frontend` | [Verify ↗](https://www.coursera.org/professional-certificates/meta-front-end-developer) |
+| 🦀 | **Rust Programming Fundamentals** | Linux Foundation | `Jul 2023` | `Systems` | [Verify ↗](https://training.linuxfoundation.org/) |
+| 🤖 | **TensorFlow Developer Certificate** | Google | `May 2023` | `AI/ML` | [Verify ↗](https://www.tensorflow.org/certificate) |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 neural-shell</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-00ff87?style=flat-square" />
+        <img src="https://img.shields.io/badge/★-3.2k-yellow?style=flat-square" />
+      </p>
+      <p>AI-powered terminal that predicts your next command using local LLMs with real-time zero latency context inference.</p>
+      <p>
+        <code>Rust</code> · <code>Python</code> · <code>GGML</code>
+      </p>
+      <p align="center">
+        <a href="https://neural-shell.dev"><b>🌐 Live Demo</b></a> | 
+        <a href="https://github.com/NotPiyushC"><b>⌥ View Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 warpgate</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-00ff87?style=flat-square" />
+        <img src="https://img.shields.io/badge/★-1.8k-yellow?style=flat-square" />
+      </p>
+      <p>Zero-config SSH & HTTP bastion with comprehensive audit logging, TLS termination, and session replay playback.</p>
+      <p>
+        <code>Go</code> · <code>React</code> · <code>SQLite</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/NotPiyushC"><b>⌥ View Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 obsidian-sync</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-WIP-ffd700?style=flat-square" />
+        <img src="https://img.shields.io/badge/★-940-yellow?style=flat-square" />
+      </p>
+      <p>End-to-end encrypted real-time sync engine for Obsidian vaults with multi-device conflict-free CRDT resolution.</p>
+      <p>
+        <code>TypeScript</code> · <code>CRDTs</code> · <code>Cloudflare</code>
+      </p>
+      <p align="center">
+        <a href="https://obsidian-sync.app"><b>🌐 Live Demo</b></a> | 
+        <a href="https://github.com/NotPiyushC"><b>⌥ View Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ readme-portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-00ff87?style=flat-square" />
+        <img src="https://img.shields.io/badge/★-1.2k-yellow?style=flat-square" />
+      </p>
+      <p>Interactive Cyberpunk-themed developer portfolio and instant GitHub README markdown generator tool.</p>
+      <p>
+        <code>React</code> · <code>TypeScript</code> · <code>TailwindCSS</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/NotPiyushC/readme-portfolio"><b>⌥ View Code</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NotPiyushC/NotPiyushC/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
 
 <details>
-<summary><b>🏆&nbsp; Certificates (6)</b> — click to expand</summary>
-<br>
+<summary><b>ℹ️ How to enable this snake animation on your GitHub Profile repository</b></summary>
+<br/>
 
-| | Certificate | Issuer | Date | Category |
-|:---:|---|---|:---:|:---:|
-| ☁️ | <a href="https://aws.amazon.com/certification/">AWS Solutions Architect</a> | Amazon Web Services | Mar 2024 | `Cloud` |
-| 🌐 | <a href="https://cloud.google.com/certification">Google Professional Cloud Developer</a> | Google Cloud | Jan 2024 | `Cloud` |
-| ⎈ | <a href="https://www.cncf.io/certification/cka/">Certified Kubernetes Administrator</a> | CNCF | Nov 2023 | `DevOps` |
-| ⚛ | <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer">Meta Frontend Developer</a> | Meta / Coursera | Sep 2023 | `Frontend` |
-| 🦀 | <a href="https://training.linuxfoundation.org/">Rust Programming Fundamentals</a> | Linux Foundation | Jul 2023 | `Systems` |
-| 🤖 | <a href="https://www.tensorflow.org/certificate">TensorFlow Developer Certificate</a> | Google | May 2023 | `AI/ML` |
-
+1. Create a repository with your username: `NotPiyushC/NotPiyushC`.
+2. Place this `README.md` in the root of that repository.
+3. Add the workflow file [`.github/workflows/snake.yml`](.github/workflows/snake.yml) in your repository.
+4. Enable workflow read & write permissions in **Repo Settings &rarr; Actions &rarr; General &rarr; Workflow permissions**.
+5. The snake animation SVG will automatically generate into the `output` branch every 12 hours!
 </details>
-
-<details>
-<summary><b>🚀&nbsp; Projects (3)</b> — click to expand</summary>
-<br>
-
-**🧠 <a href="https://github.com/yourusername/neural-shell">neural-shell</a>** &nbsp;![stars](https://img.shields.io/badge/★-3.2k-00ff87?style=flat-square&labelColor=0d1117) &nbsp;`● live`
-<br>AI-powered terminal that predicts your next command using local LLMs.
-<br>`Rust` `Python` `GGML`
-<br>🌐 <a href="https://neural-shell.dev">Live Demo</a> · ⌥ <a href="https://github.com/yourusername/neural-shell">Source</a>
-
-<br>
-
-**🚀 <a href="https://github.com/yourusername/warpgate">warpgate</a>** &nbsp;![stars](https://img.shields.io/badge/★-1.8k-00ff87?style=flat-square&labelColor=0d1117) &nbsp;`● live`
-<br>Zero-config SSH & HTTP bastion with audit logging and session replay.
-<br>`Go` `React` `SQLite`
-<br>⌥ <a href="https://github.com/yourusername/warpgate">Source</a>
-
-<br>
-
-**🔐 <a href="https://github.com/yourusername/obsidian-sync">obsidian-sync</a>** &nbsp;![stars](https://img.shields.io/badge/★-940-ffd700?style=flat-square&labelColor=0d1117) &nbsp;`◐ wip`
-<br>End-to-end encrypted real-time sync engine for Obsidian vaults.
-<br>`TypeScript` `CRDTs` `Cloudflare`
-<br>🌐 <a href="https://obsidian-sync.app">Live Demo</a> · ⌥ <a href="https://github.com/yourusername/obsidian-sync">Source</a>
-
-</details>
-
-<br>
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00ff87/NotPiyushC" alt="NotPiyushC's GitHub contribution graph" width="48%" />
-<img src="https://streak-stats.demolab.com?user=NotPiyushC&theme=dark&hide_border=true&background=0D1117&ring=00FF87&fire=00D4FF&currStreakLabel=00FF87" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<br>
 
 ---
 
 <div align="center">
-<sub>⭐ made with ❤️ by <a href="https://github.com/NotPiyushC">@NotPiyushC</a></sub>
+  <p><sub>⚡ Designed with cyberpunk aesthetics & AI precision · <a href="https://github.com/NotPiyushC">@NotPiyushC</a></sub></p>
 </div>
-
-</article>
-  </div>
-</div>
-
-</body>
-</html>
